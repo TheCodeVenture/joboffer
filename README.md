@@ -34,6 +34,8 @@ ____
 
 ### What we Offer:
 ____
+- Competitive salary.
 - You can make the difference: you will be allowed to think the process and the product itself.
-- You will be working with awesome startups and projects from Lisbon and Zurich tech startup scene.
-- Competitive salary
+- Our office is located in city center near all type of public transports.
+- You can expect another awesome perks like raclette machine and xbox!
+
