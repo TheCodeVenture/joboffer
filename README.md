@@ -35,6 +35,7 @@ ____
 ### What we Offer:
 ____
 - Competitive salary.
+- Your own macbook pro, maybe with touchbar?
 - You can make the difference: you will be allowed to think the process and the product itself.
 - Our office is located in city center near public transports (subway, bus, etc).
 - You can expect other cool perks like raclette machine and xbox!
