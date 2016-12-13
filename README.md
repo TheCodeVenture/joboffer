@@ -36,6 +36,6 @@ ____
 ____
 - Competitive salary.
 - You can make the difference: you will be allowed to think the process and the product itself.
-- Our office is located in city center near all type of public transports.
+- Our office is located in city center near public transports (subway, bus, etc).
 - You can expect another awesome perks like raclette machine and xbox!
 
