@@ -37,6 +37,6 @@ ____
 - Competitive salary.
 - Macbook Prop.
 - You can make the difference: you will be allowed to think the process and the product itself.
-- Our office is located in city center near public transports (subway, bus, etc).
+- Our office is located in Lisbon, city center near public transports (subway, bus, etc).
 - You can expect other cool perks like raclette machine and xbox!
 
