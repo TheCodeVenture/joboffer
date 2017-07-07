@@ -19,7 +19,7 @@ ____
 - Great communication skills in English.
 
 
-### Experience and Qualifications
+### Experience and Qualifications:
 ____
 - Bachelor Degree in Computer Engineering or similar discipline; or, equivalent demonstrable experience.
 - Or 2-4 years experience working as a Software Engineer, with strong emphasis on Web Technologies.
@@ -32,7 +32,7 @@ ____
 - Experience in using Test-Driven Development or Behavior-Driven Development approaches and implementing scalable testing of web applications.
   
 
-### What we Offer:
+### What we offer:
 ____
 - Competitive salary.
 - Macbook Prop.
