@@ -6,7 +6,7 @@ The Code Venture is a software development team that builds web and mobile based
 ### Responsibilities:
 ____
 - Create solutions for complex problems.
-- Design and implementation using our current stack (Node.js, MongoDb, React, Redux).
+- Design and implementation using our current javascript stack (NodeJS, mongoDB and React).
 - Ensure the quality of the developed code.
 - Participate in the agile development process.
 
@@ -14,7 +14,7 @@ ____
 ### Required skills:
 ____
 - Experience with the following technologies are required: JavaScript, JSON, REST services, SQL, nosql, AJAX, Git.
-- Experience with at least one Web backend technology and MVC frameworks, such as: Node.js, PHP.
+- Experience with at least one Web backend technology and MVC frameworks, such as: Node.js and/or Java.
 - Great knowledge of object-oriented and/or functional programming.
 - Great communication skills in English.
 
@@ -22,7 +22,7 @@ ____
 ### Experience and Qualifications
 ____
 - Bachelor Degree in Computer Engineering or similar discipline; or, equivalent demonstrable experience.
-- 2-4 years experience working as a Software Engineer, with strong emphasis on Web Technologies.
+- Or 2-4 years experience working as a Software Engineer, with strong emphasis on Web Technologies.
 
 
 ### Nice to have:
@@ -35,7 +35,7 @@ ____
 ### What we Offer:
 ____
 - Competitive salary.
-- Your own macbook pro, maybe with touchbar?
+- Macbook Prop.
 - You can make the difference: you will be allowed to think the process and the product itself.
 - Our office is located in city center near public transports (subway, bus, etc).
 - You can expect other cool perks like raclette machine and xbox!
