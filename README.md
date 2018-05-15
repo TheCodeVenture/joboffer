@@ -22,7 +22,7 @@ ____
 
 ### Experience and Qualifications:
 ____
-- 1-2 years experience working as a Software Engineer
+- 1-2 years experience working as a Software Engineer.
 - BSc/MSc in Computer Science or equivalent.
 - Both graduates and experienced programmers are encouraged to apply;
 
