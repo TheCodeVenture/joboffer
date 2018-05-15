@@ -1,42 +1,45 @@
-## THE CODE VENTURE IS LOOKING FOR A SOFTWARE ENGINEERING
+## THE CODE VENTURE IS LOOKING FOR NEW SOFTWARE ENGINEERS TO JOIN OUR LISBON TEAM
 
-The Code Venture is a software development team that builds web and mobile based platforms for companies and entrepreneurs around the world.
+The Code Venture is a software development team that builds web and mobile based platforms for companies and entrepreneurs around the world. 
+
+Find more at [our website](https://thecodeventure.com).
 
 
 ### Responsibilities:
 ____
 - Create solutions for complex problems.
-- Design and implementation using our current javascript stack (NodeJS, mongoDB and React).
+- Design and implementation using our current JavaScript stack (NodeJS and ReactJS).
 - Ensure the quality of the developed code.
 - Participate in the agile development process.
 
-
 ### Required skills:
 ____
-- Experience with the following technologies are required: JavaScript, JSON, REST services, SQL, nosql, AJAX, Git.
-- Experience with at least one Web backend technology and MVC frameworks, such as: Node.js and/or Java.
+- A strong interest and understanding of front-end technologies like JavaScript, HTML5 and CSS3.
+- Understand basic networking such as HTTP and TCP/IP.
 - Great knowledge of object-oriented and/or functional programming.
-- Great communication skills in English.
-
+- A quick learner with good communication skills to efficiently leverage the knowledge of more experienced members of the team.
+- Armed with a strong desire to progress and learn.
 
 ### Experience and Qualifications:
 ____
-- Bachelor Degree in Computer Engineering or similar discipline; or, equivalent demonstrable experience.
-- Or 2-4 years experience working as a Software Engineer, with strong emphasis on Web Technologies.
-
+- 1-2 years experience working as a Software Engineer
+- BSc/MSc in Computer Science or equivalent.
+- Both graduates and experienced programmers are encouraged to apply;
 
 ### Nice to have:
 ____
-- Experience in Agile methodologies.
-- Knowledge of a functional programming language.
+- Experience with at least one backend technology, such as: Node.js and/or Java.
+- Experience with ReactJS ecosystem and ES6;
 - Experience in using Test-Driven Development or Behavior-Driven Development approaches and implementing scalable testing of web applications.
   
 
 ### What we offer:
 ____
 - Competitive salary.
-- Macbook Prop.
+- Macbook Pro, Mouse, Keyboard and Monitor.
 - You can make the difference: you will be allowed to think the process and the product itself.
 - Our office is located in Lisbon, city center near public transports (subway, bus, etc).
-- You can expect other cool perks like raclette machine and xbox!
+- Lunch allowance.
+- Perfomance Bonus.
+- You can expect other cool perks like: Arcade Machine, PS4 and casual dinners!
 
