@@ -1,4 +1,4 @@
-## THE CODE VENTURE IS LOOKING FOR NEW SOFTWARE ENGINEERS TO JOIN OUR LISBON TEAM
+## THE CODE VENTURE IS LOOKING FOR NEW SOFTWARE ENGINEERS
 
 The Code Venture is a software development team that builds web and mobile based platforms for companies and entrepreneurs around the world. 
 
