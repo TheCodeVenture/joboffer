@@ -30,6 +30,7 @@ ____
 - Experience with at least one backend technology, such as: Node.js, Java or/and Python.
 - Experience with NoSQL databases as MongoDB;
 - Experience with ReactJS ecosystem and ES6;
+- Experience with Xcode ecostystem and related languages Swift, Objective-C or C;
 - Experience in using Test-Driven Development or Behavior-Driven Development approaches and implementing scalable testing of web applications.
   
 
