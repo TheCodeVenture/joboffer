@@ -22,13 +22,13 @@ ____
 
 ### Experience and Qualifications:
 ____
-- 1-2 years experience working as a Software Engineer.
-- BSc/MSc in Computer Science or equivalent.
+- 1-2 years experience working as a Software Engineer or/and BSc/MSc in Computer Science;
 - Both graduates and experienced programmers are encouraged to apply;
 
 ### Nice to have:
 ____
-- Experience with at least one backend technology, such as: Node.js and/or Java.
+- Experience with at least one backend technology, such as: Node.js, Java or/and Python.
+- Experience with NoSQL databases as MongoDB;
 - Experience with ReactJS ecosystem and ES6;
 - Experience in using Test-Driven Development or Behavior-Driven Development approaches and implementing scalable testing of web applications.
   
